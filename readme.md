@@ -1,5 +1,7 @@
 # My First Git Repo
 
+# THE BRIDGE SCHOOL (DATA SCIENCE BOOTCAMP)
+
 Welcome to your first GitHub repository! This project is designed to help you practice connecting to GitHub, using basic git commands, and writing simple Python code.
 
 ## Getting Started
