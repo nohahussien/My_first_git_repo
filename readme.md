@@ -2,6 +2,9 @@
 
 # THE BRIDGE SCHOOL (DATA SCIENCE BOOTCAMP)
 
+![image](https://github.com/JLGOrtega/my-first-git-repo/assets/101733471/99d28c08-595a-4f46-92e6-feb2c28e34cd)
+
+
 Welcome to your first GitHub repository! This project is designed to help you practice connecting to GitHub, using basic git commands, and writing simple Python code.
 
 ## Getting Started
